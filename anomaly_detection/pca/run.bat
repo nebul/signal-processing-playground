@@ -1,0 +1,1 @@
+python pca_detector.py -i input.jpeg -o output.jpeg -n 2 -p 95
